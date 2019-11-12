@@ -1,1 +1,2 @@
-var name = 'adri'
+var name = 'namanya adri'
+console.log(name)
